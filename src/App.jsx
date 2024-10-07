@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Pokemon } from './pokemon';
+import { Pokemon } from './Pokemon';
 
 export const App = () => {
 
